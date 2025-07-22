@@ -5,10 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataBase {
-    private static final String URL = "jdbc:postgresql://aws-0-sa-east-1.pooler.supabase.com:6543/postgres";
-    private static final String USER = "postgres.nduczwwykxhdcywzqvyv";
+    private static final String URL = "jdbc:postgresql://db.grccfusibjnwclrgnkcq.supabase.co:5432/postgres";
+    private static final String USER = "postgres";
     private static final String PASSWORD = "hotelpousada";
-
     // Implementação do singleton
     private static Connection connection = null;
 
