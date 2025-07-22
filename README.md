@@ -1,1 +1,1 @@
-# Projeto-POO
+Sistema de Gerenciamento de Hotel que será desenvolvido para controle de hóspedes, quartos, reservas, check-in/check-out, estadias e pagamentos.
